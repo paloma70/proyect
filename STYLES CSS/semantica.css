@@ -1,0 +1,60 @@
+body { 
+
+    /*tipo de letra*/
+    font-family: Arial, sans-serif;
+    /*color de letra*/
+    color: rgb(143, 37, 37);
+
+    background: #2a5b9b;
+background: radial-gradient(circle, rgba(42, 91, 155, 1) 0%, rgba(87, 162, 199, 1) 65%, rgba(83, 181, 237, 1) 100%);
+}
+header {
+    /*color de fondo del header*/
+    background-color: rgb(255, 255, 255);
+    /*color de texto del header*/
+    color: rgb(43, 95, 73);
+    /*tipo de letra del header*/
+    font-family: Arial, sans-serif;
+    width: 200%;
+    height: 100px;
+}
+main {
+    /*color de fondo del main*/
+    background-color: rgb(255, 255, 255);
+    /*color de texto del main*/
+    color: rgb(43, 95, 73);
+    /*tipo de letra del main*/
+    font-family: Arial, sans-serif;
+    width: 200%;
+    height: 200%;
+}   
+Li {
+    /*color de fondo del li*/
+    background-color: rgb(255, 255, 255);
+    /*color de texto del li*/
+    color: rgb(43, 95, 73);
+    /*tipo de letra del li*/
+    font-family: Arial, sans-serif;
+}
+/*slecetor de clase*/
+.cont {
+    /*color de fondo del cont*/
+    background-color: rgb(145, 81, 81);
+    /*color de texto del cont*/
+    color: rgb(92, 212, 162);
+    /*tipo de letra del cont*/
+    font-family: Arial, sans-serif;
+    width: 200%;
+    height: 200%;
+}
+/*selector de ID*/
+#list-unic  {
+    /*color de fondo del list-unic*/
+    background-color: rgb(145, 81, 131);
+    /*color de texto del list-unic*/
+    color: rgb(105, 105, 105);
+    /*tipo de letra del list-unic*/
+    font-family: Arial, sans-serif;
+    width: 200%;
+    height: 200%;
+}
