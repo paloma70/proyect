@@ -21,7 +21,7 @@ hello
 >helloo
 >>hii
 ---
-![logo](fish.jpg)
+![logo](/ASSETS/fish.jpg)
 ---
 1. html
 2. css
