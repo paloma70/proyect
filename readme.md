@@ -21,7 +21,7 @@ hello
 >helloo
 >>hii
 ---
-![logo](Fish-Logo-Graphics-5365128-1 (1))
+![logo](Fish-Logo-Graphics-5365128-1 (1).jpg)
 ---
 1. html
 2. css
