@@ -37,3 +37,17 @@ hello
      *HTML
 
      ```<!--comentar-->```
+video
+----
+video
+
+__video for youtube__ just share it on yt with incorporar
+audio
+-----
+audio
+
+TABLE
+
+TR , TH ^
+
+TR TD ->
